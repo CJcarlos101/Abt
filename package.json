@@ -1,0 +1,22 @@
+{
+  "name": "cj",
+  "version": "1.0.0",
+  "description": "Public repository version for the cjcarlos bot",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CJcarlos101/CJcarlos-bot-public-repo.git"
+  },
+  "author": "CJcarlos#1000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CJcarlos101/CJcarlos-bot-public-repo/issues"
+  },
+  "homepage": "https://github.com/CJcarlos101/CJcarlos-bot-public-repo#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
